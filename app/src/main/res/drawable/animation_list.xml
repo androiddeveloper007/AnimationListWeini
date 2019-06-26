@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@drawable/blue_gradient0"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/blue_gradient1"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/blue_gradient15"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/blue_gradient2"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/blue_gradient25"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/blue_gradient3"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/blue_gradient35"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/blue_gradient4"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/blue_gradient45"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/blue_gradient5"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/blue_gradient55"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/blue_gradient6"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/blue_gradient65"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/blue_gradient7"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/blue_gradient75"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/blue_gradient8"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/blue_gradient85"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/blue_gradient9"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/blue_gradient85"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/blue_gradient8"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/blue_gradient75"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/blue_gradient7"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/blue_gradient65"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/blue_gradient6"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/blue_gradient55"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/blue_gradient5"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/blue_gradient45"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/blue_gradient4"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/blue_gradient35"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/blue_gradient3"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/blue_gradient25"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/blue_gradient2"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/blue_gradient15"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/blue_gradient1"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/blue_gradient0"
+        android:duration="60" />
+</animation-list>
